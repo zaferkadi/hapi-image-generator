@@ -1,0 +1,17 @@
+{
+  "name": "hapi-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "hapi": "^13.0.0",
+    "jimp": "^0.2.21",
+    "joi": "^8.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
